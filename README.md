@@ -1,11 +1,8 @@
-<style type="text/css"> 
-    table { border-collapse: collapse; } 
-    table, th, td { border: 1px solid black; } 
-</style>
-
 
 # Zebra-Product-Videos-Explains-Robustness-of-Zebra-Product
  ゼブラ製品の耐久性を紹介するマテリアル集
+ 
+ ゼブラ製品は競合にも優る耐久性、品質テストをしているエビデンスとしてご利用ください。
 
 |||
 |-|-|
